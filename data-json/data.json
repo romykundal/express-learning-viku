@@ -1,0 +1,36 @@
+{
+"students":
+[{
+    "name": "rohit",
+    "type": "sw"
+  },
+  {
+    "name": "vikas",
+    "type": "hw"
+  },
+  {
+    "name": "pallo",
+    "type": "seo"
+  },
+  {
+    "name": "raman",
+    "type": "sw"
+  }],
+  "employees":[{
+    "name": "rohit",
+    "type": "labaure"
+  },
+  {
+    "name": "vikas",
+    "type": "plumber"
+  },
+  {
+    "name": "pallo",
+    "type": "waiter"
+  },
+  {
+    "name": "raman",
+    "type": "plumber"
+  }]
+}
+
